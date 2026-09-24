@@ -1,0 +1,8 @@
+cub/*
+cub.old/*
+*.d
+pokec.txt
+pma_bfs_demo
+*.o
+gpma_demo
+.vscode/*
